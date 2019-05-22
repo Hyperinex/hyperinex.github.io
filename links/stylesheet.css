@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	background-color:  #252525;
+	position: absolute; left: 250px; top:50px;
+}
+a {
+	color: yellow;
+	font-size: 40px;
+	text-decoration: none;
+}
+button {
+	background-color: #252525;
+	border: solid yellow;
+}
