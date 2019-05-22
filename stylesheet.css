@@ -51,6 +51,11 @@ td {
 	border-bottom: solid yellow;
 
 }
+video {
+	width: 885px;
+	height: 503px;
+	border: solid 6px;
+}
 img {
 	width: 898px;
 	border: solid 1px yellow;
